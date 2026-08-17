@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Vista QA: las páginas incluyen noindex,nofollow,noarchive.
